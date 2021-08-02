@@ -4,4 +4,4 @@ Hi there, I'm RiGun-K! 👋
 
 ![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=RiGun-K&show_icons=true&theme=tokyonight)
 
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=RiGun-K&layout=compact)](https://github.com/RiGun-K/github-readme-stats)
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=RiGun-K&layout=compact&show_icons=true&theme=tokyonight)](https://github.com/RiGun-K/github-readme-stats)
