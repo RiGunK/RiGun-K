@@ -3,7 +3,7 @@ Hi there, I'm RiGun-K! 👋
 My Blog Link 
 https://rigun.tistory.com/
 
-<a href='address'>Daum</a>
+<a href='https://rigun.tistory.com/'>블로그</a>
 <!-- [![trophy](https://github-profile-trophy.vercel.app/?username=RiGun-k&theme=discord)](https://github.com/RiGun-K/github-profile-trophy) -->
 
 ![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=RiGun-K&show_icons=true&theme=tokyonight)
