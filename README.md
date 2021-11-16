@@ -1,15 +1,9 @@
 Hi there, I'm RiGun-K! 👋
 
-<!-- 합쳐지고 최소화된 최신 CSS -->
-<link rel="stylesheet" href="https://maxcdn.bootstrapcdn.com/bootstrap/3.3.2/css/bootstrap.min.css">
 
-<!-- 부가적인 테마 -->
-<link rel="stylesheet" href="https://maxcdn.bootstrapcdn.com/bootstrap/3.3.2/css/bootstrap-theme.min.css">
+<a href='https://rigun.tistory.com/' class="btn btn-primary btn-lg active" text-decoration: none; border: rgba(75, 112, 253, 0.3) solid; border-width: 0 0 6px 0;
+>블로그 놀러와주세요 ! </a>
 
-<!-- 합쳐지고 최소화된 최신 자바스크립트 -->
-<script src="https://maxcdn.bootstrapcdn.com/bootstrap/3.3.2/js/bootstrap.min.js"></script>
-
-<a href='https://rigun.tistory.com/' class="btn btn-primary btn-lg active">블로그 놀러와주세요 ! </a>
 
 <!-- [![trophy](https://github-profile-trophy.vercel.app/?username=RiGun-k&theme=discord)](https://github.com/RiGun-K/github-profile-trophy) -->
 
