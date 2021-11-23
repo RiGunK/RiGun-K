@@ -1,7 +1,7 @@
 Hi there, I'm RiGun-K! 👋
 
 
-<a href='https://rigun.tistory.com/' class="btn btn-primary btn-lg active">블로그 놀러와주세요 ! </a>
+<a href='https://rigun.tistory.com/'  class="btn btn-primary btn-lg active">블로그 놀러와주세요 ! </a>
 
 
 <!-- [![trophy](https://github-profile-trophy.vercel.app/?username=RiGun-k&theme=discord)](https://github.com/RiGun-K/github-profile-trophy) -->
