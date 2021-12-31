@@ -2,7 +2,7 @@ Hi there, I'm RiGun-K! 👋
 
 
 
-블로그 놀러와주세요 !
+블로그 놀러와주세요 !!
 
 <a href="https://rigun.tistory.com/" target="_blank"><img src="https://img.shields.io/badge/Velog-20c997?style=flat-square&logo=Vimeo&logoColor=white"/></a>
 
