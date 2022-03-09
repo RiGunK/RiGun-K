@@ -6,6 +6,8 @@ Hi there, I'm RiGun-K! 👋
 
 <a href="https://rigun.tistory.com/"><img src="https://img.shields.io/badge/Velog-3DDC84?style=flat-square&logo=Blogger&logoColor=white"/></a>
 
+- 📒  **Fomagran's blog ...** [![Tech Blog Badge](http://img.shields.io/badge/-Tech%20blog-black?style=flat-square&logo=blogger&logoColor=white&link=https://rigun.tistory.com/)](https://rigun.tistory.com/)
+
 - 📺  **Fomagran's Youtube...** [![Youtube Badge](https://img.shields.io/badge/Youtube-ff0000?style=flat-square&logo=youtube&link=https://www.youtube.com/channel/UCV9Th37Jfq-H1b7MGz7ibvg)](https://www.youtube.com/channel/UCV9Th37Jfq-H1b7MGz7ibvg)
 
 
