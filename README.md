@@ -7,12 +7,8 @@
 
 - 📺  **RiGun's Youtube...** [![Youtube Badge](https://img.shields.io/badge/Youtube-ff0000?style=flat-square&logo=youtube&link=https://www.youtube.com/channel/UCV9Th37Jfq-H1b7MGz7ibvg)](https://www.youtube.com/channel/UCV9Th37Jfq-H1b7MGz7ibvg)
 
-- 📮  **RiGun's SNS...** [![Facebook Badge](https://img.shields.io/badge/facebook-1877f2?style=flat-square&logo=facebook&logoColor=white&link=https://www.facebook.com/su1318ho)](https://www.facebook.com/su1318ho)
-- <a href="https://instagram.com/alpox.dev">
-    <img 
-        src="http://img.shields.io/badge/-Instagram-black?style=flat&logo=Instagram&link=https://instagram.com/alpox.dev/"
-        style="height : auto; margin-left : 10px; margin-right : 10px;"/>
-</a>
+- 📮  **RiGun's SNS...** [![Facebook Badge](https://img.shields.io/badge/facebook-1877f2?style=flat-square&logo=facebook&logoColor=white&link=https://www.facebook.com/su1318ho)](https://www.facebook.com/su1318ho)   <a href="https://instagram.com/yo.o.park"><img src="https://img.shields.io/badge/instagram-E4405F?style=flat&logo=instagram&logoColor=white"></a>
+
 
 <!-- [![trophy](https://github-profile-trophy.vercel.app/?username=RiGun-k&theme=discord)](https://github.com/RiGun-K/github-profile-trophy) -->
 
