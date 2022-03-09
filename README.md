@@ -1,9 +1,12 @@
 ### Hi there 👋 
 
 
+
 - 📒  **RiGun's blog ...** [![Tech Blog Badge](http://img.shields.io/badge/-Tech%20blog-black?style=flat-square&logo=blogger&logoColor=white&link=https://rigun.tistory.com/)](https://rigun.tistory.com/)
 
+
 - 📺  **RiGun's Youtube...** [![Youtube Badge](https://img.shields.io/badge/Youtube-ff0000?style=flat-square&logo=youtube&link=https://www.youtube.com/channel/UCV9Th37Jfq-H1b7MGz7ibvg)](https://www.youtube.com/channel/UCV9Th37Jfq-H1b7MGz7ibvg)
+
 
 <!-- [![trophy](https://github-profile-trophy.vercel.app/?username=RiGun-k&theme=discord)](https://github.com/RiGun-K/github-profile-trophy) -->
 
